@@ -1,0 +1,5 @@
+*.ckpt
+*.csv
+__pycache__
+.vscode
+lightning_logs
